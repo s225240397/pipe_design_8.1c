@@ -3,3 +3,5 @@
 ### Testing trigger with git commit
 
 Test 1
+
+Test 2
